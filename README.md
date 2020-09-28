@@ -9,4 +9,4 @@ The installer use Homebrew and contains the following:
 
 ## Installation
 
-Drag and run the ut-tools.ssh on your Terminal and follow the instructions.
+Download the file and then run the ut-tools.sh on your Terminal and follow the instructions.
